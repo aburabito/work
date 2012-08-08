@@ -20,6 +20,7 @@
 #include <functional>
 #include <stdexcept>
 
+
 int
 test(int i)
 {
